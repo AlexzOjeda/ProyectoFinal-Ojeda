@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.numerito {
+    padding: 0.15rem 0.4rem;
+    background-color: #fff;
+    border-radius: 1rem;
+    color: black
+}
